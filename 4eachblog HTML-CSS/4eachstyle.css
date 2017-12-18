@@ -1,0 +1,10 @@
+header .list{
+    position: absolute;
+    width: 100%;
+    bottom: 60px;
+    background-color: black;
+}
+header ul{
+    float: left;
+    line-height: 30px;
+}
