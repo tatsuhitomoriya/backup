@@ -1,0 +1,11 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		int a=2;
+		String b=a%2==0?"偶数":"奇数";
+	}
+
+
+}

@@ -1,0 +1,12 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		int a=10;
+		String b=a>=0?"プラス":"マイナス";
+		System.out.println(b);
+	}
+
+
+}

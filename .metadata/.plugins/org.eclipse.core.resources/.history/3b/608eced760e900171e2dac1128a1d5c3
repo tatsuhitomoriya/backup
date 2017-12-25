@@ -1,0 +1,13 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		for(int i=10;>=5;i--){
+			System.out.println(i);
+		}
+
+	}
+
+
+}

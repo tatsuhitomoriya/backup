@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\testuser\Desktop\workspace\workspace-moriya\backup\TestProject01\.metadata\.plugins\org.eclipse.jdt.core

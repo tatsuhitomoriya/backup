@@ -1,0 +1,43 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		String[][] country={
+				{"日本","タイ"},
+				{"アメリカ","ブラジル"},
+				{"フランス","ロシア"}
+		};
+		System.out.println(country[0][0]);
+
+		System.out.println(country[0][1]);
+
+		System.out.println(country[1][0]);
+
+		System.out.println(country[2][1]);
+
+		String[][] country1=new String[3][2];
+
+		country1[0][0]="日本";
+		country1[0][1]="タイ";
+		country1[1][0]="アメリカ";
+		country1[1][1]="ブラジル";
+		country1[2][0]="フランス";
+		country1[2][1]="ロシア";
+
+		System.out.println(country1[0][0]);
+
+		System.out.println(country1[1][1]);
+
+		for (int i=0;i<=100;i++){
+			System.out.println(i);
+			System.out.println("-");
+		}
+		for(int i=0;i<3;i++){
+			System.out.println(i);
+		}
+
+	}
+
+
+}

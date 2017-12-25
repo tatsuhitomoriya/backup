@@ -1,0 +1,15 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		for(int a=0;a<3;a++){
+			for(int b=1;b<4;b++){
+				System.out.println(b);
+			}
+			System.out.println("\n");
+		}
+	}
+
+
+}

@@ -1,0 +1,15 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World! の出力
+		int i=0;
+		while(i<=100){
+			System.out.println(i);
+			System.out.println("-");
+			i++;
+		}
+	}
+
+
+}
