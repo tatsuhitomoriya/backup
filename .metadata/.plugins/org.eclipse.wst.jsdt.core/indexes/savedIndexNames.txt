@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-moriya\backup\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2904512427.index
+3228365115.index
+2795787554.index
+1046646953.index
+4272355115.index
+819591404.index
+2198604407.index
