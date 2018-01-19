@@ -55,6 +55,23 @@ table{
 	clear:both;}
 </head>
 <body>
-
+	<div id="header">
+		<div id="pr">
+		</div>
+	</div>
+	<div id="main">
+		<div id="top">
+			<p>Home</p>
+		</div>
+		<div>
+			<s:form action="HomeAction">
+				<s:submit value="商品購入"/>
+			</s:form>
+		</div>
+	</div>
+	<div id="footer">
+		<div id="pr">
+		</div>
+	</div>
 </body>
 </html>
