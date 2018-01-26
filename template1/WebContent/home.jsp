@@ -30,6 +30,7 @@ table{
 	text-align:center;
 	margin:0 auto;
 	}
+
 /* ========ID LAYOUT======== */
 
 #top{
@@ -40,19 +41,23 @@ table{
 
 #header{
 	width:100%;
-	height:80px;
-	background-color:black;
+	height:500px;
+	text-align:center;
 	}
+
 #main{
 	width:100%;
 	height:500px;
 	text-align:center;
 	}
+
 #footer{
 	width:100%;
 	height:80px;
 	background-color:black;
-	clear:both;}
+	clear:both;
+	}
+</style>
 </head>
 <body>
 	<div id="header">

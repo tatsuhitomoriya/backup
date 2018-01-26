@@ -57,7 +57,7 @@ table{
 	background-color:black;
 	clear:both;
 	}
-</syle>
+</style>
 </head>
 <body>
 	<div id="header">
